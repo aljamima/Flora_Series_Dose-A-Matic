@@ -112,7 +112,13 @@ This project is a precision nutrient dosing controller designed for hydroponic a
 ```
 
 ---
+![photo_2025-04-10_23-09-12](https://github.com/user-attachments/assets/a928ea41-6d17-42d9-ba7e-e5a182485979)
+---
+![photo_2025-04-10_23-09-15](https://github.com/user-attachments/assets/e288d053-fb7e-4e4f-9307-25b7e4c7147b)
 
+
+
+---
 ## 🛠 Future Ideas
 
 - Save calibration values in EEPROM
