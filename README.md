@@ -1,9 +1,4 @@
-# Flora_Series_Dose-A-Matic
-This tutorial will help you to build a working nutrient doser for the 3 part flora series nutrients. Or others....
-
-
-
-# Arduino-Based Nutrient Dosing System
+# Arduino-Based Flora_Series_Dose-A-Matic
 
 This project is a precision nutrient dosing controller designed for hydroponic and mushroom cultivation systems. It uses an Arduino Nano to control three dosing pumps, selectable modes, and output volumes, with a clear OLED display interface and a rotary encoder for navigation. The system is designed for long-term durability and user-friendly calibration.
 
