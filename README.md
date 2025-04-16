@@ -47,12 +47,6 @@ This project is a precision nutrient dosing controller designed for hydroponic a
 - 5V powers Nano and relay module
 - Nano’s 3.3V pin powers the OLED/Encoder module
 
-### Optional Filtering
-
-- 100µF Electrolytic capacitor
-- 0.1µF Ceramic capacitor
-
----
 
 ## ⚙️ Wiring Summary
 
@@ -98,18 +92,6 @@ This project is a precision nutrient dosing controller designed for hydroponic a
 - Observe and measure volume dispensed
 - Tune time until \~5ml per run
 
----
-
-## 📁 GitHub Repo Structure
-
-```
-/arduino_code          ← Final sketch files
-/pcb_design            ← Gerber, KiCad or Flux files
-/breadboard_diagram    ← PNG + .fzz wiring diagrams
-/images                ← Build photos
-/README.md             ← Project overview (this file)
-/BOM.csv               ← Parts list for sourcing
-```
 
 ---
 ![photo_2025-04-10_23-09-12](https://github.com/user-attachments/assets/a928ea41-6d17-42d9-ba7e-e5a182485979)
