@@ -121,11 +121,11 @@ This project is a precision nutrient dosing controller designed for hydroponic a
 ---
 ## 🛠 Future Ideas
 
-- Save calibration values in EEPROM
 - Add real-time clock (RTC) for scheduling
-- Log dosing events to SD card
+- Calibration Routines
+- Save calibration values in EEPROM
 - Replace relays with MOSFETs for faster switching
-- Fully custom PCB (in progress!)
+- Fully custom PCB
 
 ---
 
@@ -134,7 +134,4 @@ This project is a precision nutrient dosing controller designed for hydroponic a
 This project is open source under the MIT License. Attribution appreciated, but not required.
 
 ---
-
-Built with 💧 by an enthusiast of automation, control, and DIY excellence.
-
 
