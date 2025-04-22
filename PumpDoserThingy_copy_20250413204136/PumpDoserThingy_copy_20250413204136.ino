@@ -16,6 +16,7 @@ Encoder encoder(2, 3);  // CLK, DT
 #define RELAY_PURPLE 8
 #define RELAY_GREEN  7
 
+
 long lastEncoderPos = 0;
 int modeIndex = 0;
 int gallonAmount = 1;
